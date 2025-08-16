@@ -4,8 +4,8 @@
 
 ## Informações Gerais
 
-Nome: Gisele Rodrigues dos Santos
-Matricula: 903350
+- **Nome:** Gisele Rodrigues dos Santos
++ **Matricula:** 903350
 
 ## Tela de inspeção com navegador
 
