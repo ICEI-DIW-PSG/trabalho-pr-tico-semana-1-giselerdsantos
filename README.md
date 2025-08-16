@@ -9,11 +9,11 @@
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+
 ![imagem ferramenta de inspeção](images/teladeinspeçao.png)
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+
 ![imagem projeto replit](images/telareplit.png)
 
 ## Orientações sobre Linguagem MarkDown
